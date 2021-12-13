@@ -1,2 +1,4 @@
 # SML310-JobMarketPredictions
-Attempting to understand how a person's demographic, education, and current occupation can impact their long term career path.
+Attempting to understand how a person's demographic, education, and current occupation can impact their long term career path. My goal is to determine whether it is possible to predict the best entry-level job for college graduates that suit their skills, appeals to their wants, and fulfills their long-term goals. I have attempted to utilize regression to understand the relationship between occupation and wealth. Similarly, I have attempted to utilize past data to predict a person's current standing and current data to predict the ideal entry-level occupation. The main data set studied contains 60 features from the past 12 years obtained from the Current Population Survey (CPS), covering the period 1962 to the present.
+
+To run the current version of the code simply download the corresponding .py and .csv file(s) and run in terminal/notebook. Please note that not all of the trials conducted may be reflected in the code in order to limit the size of the file.
